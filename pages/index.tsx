@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           </h1>
 
           <p className={styles.description}>
-            Get started by configuring your desired network in{" "}
+            RKO OUT OF NOWEHERE{" "}
             <code className={styles.code}>src/index.js</code>, then modify the{" "}
             <code className={styles.code}>src/App.js</code> file!
           </p>
